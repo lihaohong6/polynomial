@@ -35,4 +35,5 @@
 .DS_STORE
 
 # CLion files
-
+.idea
+cmake-build-debug
